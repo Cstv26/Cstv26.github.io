@@ -3,5 +3,39 @@ h1 {
     font-sixe: 36px;
 }
 head{
-    font-family: 'Merriweather', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+ .color-pallete{
+     background-color: white;
+     border-style: solid;
+     border-width: 2px;
+     padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+ }
+.color-1{
+    height: 150px;
+  width: 150%;
+  background-color:#D8DBE2;
+}
+.color-2{
+    height: 150px;
+  width: 150%;
+  background-color:#A9BCD0 ;
+}
+.color-3{
+    height: 150px;
+  width: 150%;
+  background-color:#58A4B0 ;
+}
+.color-4{
+    height: 150px;
+  width: 150%;
+  background-color:#373F51 ;
+}
+.color-5{
+    height: 150px;
+  width: 150%;
+  background-color:#1B1B1E ;
 }
