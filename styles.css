@@ -1,11 +1,10 @@
-html{
-    background-color:#1B1B1E; 
-}
+
 h2 {
     color: #A9BCD0;
     font-sixe: 36px;
 }
 body{
+    background-color:#1B1B1E; 
     font-family: 'Nanum Gothic', sans-serif;
     color: #D8DBE2;
 }
