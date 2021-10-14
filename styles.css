@@ -4,7 +4,7 @@ h2 {
     font-sixe: 36px;
 }
 body{
-    background-color:#1B1B1E; 
+    background-color:#1B1B1E;
     font-family: 'Nanum Gothic', sans-serif;
     color: #D8DBE2;
 }
@@ -44,4 +44,48 @@ body{
     height: 150px;
   width: 150%;
   background-color:#1B1B1E ;
+}
+
+
+h1,
+p,{
+ margin: 0;
+ padding: 0;
+}
+
+h1 {
+ font-size: 2.8em;
+ padding: 10px 0;
+ font-weight: 800;
+}
+
+p {
+ font-size: 1.1em;
+ font-weight: 100;
+ letter-spacing: 5px;
+}
+
+.header {
+ width: 100%;
+ padding:60px 0;
+ text-align: center;
+ background: ##58A4B0;
+ color: white;
+}
+
+
+.btn-bgstroke {
+ font-size: 20px;
+ display: inline-block;
+ border: 1px solid white;
+ padding: 10px 20px;
+ border-radius: 10px;
+ cursor: pointer;
+ font-weight: 300;
+ margin-top: 30px;
+}
+
+.btn-bgstroke:hover {
+ background-color: white;
+ color: ##58A4B0;
 }
