@@ -13,7 +13,14 @@ body{
 .menu{
     display: flex;
     justify-content:center;
-     flex-direction: row;
+	margin:10px;
+	width:900px;
+}
+.menu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
 }
  .color-pallete{
      background-color: white;
