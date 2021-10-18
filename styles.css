@@ -20,8 +20,6 @@ body{
 .menu li {
 	display:block;
 	width:120px;
-	float:left;
-	margin-left:2px;
     align-items: center;
 }
  .color-pallete{
