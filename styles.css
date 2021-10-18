@@ -10,17 +10,24 @@ body{
     color: #D8DBE2;
     text-align: center
 }
+.link{
+    color: #A9BCD0;
+}
 .menu{
     display: flex;
     justify-content:center;
-    flex-direction: row;
-	margin:10px;
+    align-items: center;
+	margin:25px;
 	width:900px;
 }
 .menu li {
-	display:block;
-	width:120px;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
     align-items: center;
+    float: left;
+	width:120px;
+	margin: :1px;
 }
  .color-pallete{
      background-color: white;
