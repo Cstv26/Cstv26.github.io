@@ -22,7 +22,7 @@ body{
 }
 .menu li {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     flex-direction: row;
     align-items: center;
     float: left;
@@ -74,4 +74,15 @@ body{
 }
 .about{
     margin: 50px;
+}
+.reel{
+    display: flex;
+}
+video{
+    flex-grow: 2;
+    padding-left: 50;
+}
+.reel p{
+    flex-grow: 1;
+    margin: 20;
 }
